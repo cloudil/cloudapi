@@ -1,4 +1,4 @@
-# Yandex.Cloud API
+# Nebius.Cloud API
 
 This repository contains the interface definitions of Yandex.Cloud API. 
 
@@ -8,7 +8,7 @@ For more details see [documentation](https://cloud.yandex.com/docs).
 
 You can access Yandex.Cloud by using REST or GRPC API.
 
-Yandex.Cloud API uses Protocol Buffers to define API interfaces and data structures. These definitions are used for both REST and GRPC versions of the Yandex.Cloud API. 
+Nebius.Cloud API uses Protocol Buffers to define API interfaces and data structures. These definitions are used for both REST and GRPC versions of the Nebius.Cloud API. 
 
 ## Repository structure
 
